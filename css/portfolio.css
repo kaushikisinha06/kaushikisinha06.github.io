@@ -8,7 +8,7 @@
     overflow: auto;
 }
 .portfolioWrapper{
-    background: url("F:/New folder/assests/scenery.jpg ");
+    background: url("../assests/scenery.jpg ");
     height: 270px;
     width: 100%;
     background-repeat: no-repeat;

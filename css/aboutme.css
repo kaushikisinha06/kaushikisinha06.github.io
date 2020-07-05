@@ -8,7 +8,7 @@
     overflow: scroll;
 }
 .aboutWrapper{
-	background: url("F:/New folder/assests/scenery.jpg ");
+	background: url("../assests/scenery.jpg");
     background-attachment: scroll;
     height: 270px;
     width: 100%;
