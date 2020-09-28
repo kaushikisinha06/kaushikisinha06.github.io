@@ -82,7 +82,7 @@ $(document).ready(function(){
         return false;
     }
     else{
-        location.href='mailto:bhavyasinha2402@email.com'
+        location.href='kaushiki0608@gmail.com'
         window.alert("Thankyou For contacting me!! Will get back to you earliest..");
     }
 });
